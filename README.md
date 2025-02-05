@@ -4,7 +4,7 @@ Principal Software Engineer specializing in distributed systems, user interfaces
 
 > Over 12 years of professional experience in designing, building, and shipping tools that are used daily for systems-critical tasks by folks at: Google, Apple, Microsoft, Intel, IBM, Cisco, AWS, Red Hat, Oracle, Github, Gitlab, Bitbucket, StackExchange, Pixar, Autodesk, Sony, EA, Nike, Twitch, and even the Large Hadron Collider at CERN- just to name a few.
 
-#### Contact:
+## Contact:
 
 | Phone Number    | Email Address                     |
 | --------------- | --------------------------------- |
