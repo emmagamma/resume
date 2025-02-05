@@ -6,14 +6,9 @@ Principal Software Engineer specializing in distributed systems, user interfaces
 
 ## Contact:
 
-| Phone Number    | Email Address                     |
-| --------------- | --------------------------------- |
-| `(279)206-0375` | `emma@heckadecimal.com`           |
-
-| Github                                    | Website                                      |
-| ----------------------------------------- | -------------------------------------------- |
-| [@emmagamma](https://github.com/emmagamma) | [heckadecimal.com](https://heckadecimal.com) | 
-
+| Phone Number    | Email Address                     | Github                                    | Website                                      |
+| --------------- | --------------------------------- | ----------------------------------------- | -------------------------------------------- |
+| `(279)206-0375` | `emma@heckadecimal.com`           | [@emmagamma](https://github.com/emmagamma) | [heckadecimal.com](https://heckadecimal.com) | 
 
 ## Experience:
 
